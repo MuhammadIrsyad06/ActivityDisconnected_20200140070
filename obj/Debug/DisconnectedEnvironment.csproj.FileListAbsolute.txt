@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+C:\Users\lenovo\source\repos\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
